@@ -4,7 +4,7 @@
 ## Overview
 This project implements the RRT* (Rapidly-exploring Random Tree Star) algorithm, an optimized version of the RRT path planning algorithm. RRT* is an asymptotically optimal sampling-based algorithm used for robotic motion planning in complex environments.
 
-![Example Path Found by RRT*](image/1.png)
+(image/1.png)
 
 ## Features
 - **Optimal Path Planning**: Finds the most efficient path between start and goal points
